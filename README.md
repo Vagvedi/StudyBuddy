@@ -1,4 +1,4 @@
-# 📚 AI Study Partner
+# AI Study Partner
 
 > **Context-Aware Question Answering from PDFs**
 
