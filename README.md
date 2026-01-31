@@ -1,4 +1,4 @@
-# AI Study Partner
+# AI Study Partner - StudyBuddy
 
 > **Context-Aware Question Answering from PDFs**
 
